@@ -1,0 +1,65 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}.size{width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+
+}
+.profilecard{background-image: url(https://img.freepik.com/free-photo/violet-watercolor-texture-background_1083-172.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1715299200&semt=ais_user);
+              text-align: center;
+              padding: 40px;
+              width: 40%;
+              margin: auto;
+              margin-top: 30px;
+              border: dashed blueviolet 5px;
+              
+}
+
+.content{text-align: left;
+    width: 60%;
+    margin: auto;
+    margin-left: 150px;
+
+}
+
+.title{color: blueviolet;
+    font-family: "Poetsen One", sans-serif;
+     font-size: 20px;
+    font-weight: lighter;}
+
+
+
+    
+
+     .name{ font-family: "Poppins", sans-serif;
+             font-weight: bold;}
+
+    .occupation{font-family:"Poppins", sans-serif; 
+                 font-weight: bold;}
+.company{font-family:"Poppins", sans-serif; 
+    font-weight: bold
+
+}
+.address{font-family:"Poppins", sans-serif; 
+    font-weight: bold
+
+}  
+.description{text-align: left;
+             color: blueviolet;
+              font-family:"Poppins", sans-serif;
+              font-size: large; 
+              font-weight: bold;
+              font-style: italic;
+              
+              
+              
+            
+              
+
+
+    
+
+}
